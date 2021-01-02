@@ -1,0 +1,44 @@
+- Install nodemon:
+(to run nodejs file automatically)
+npm install -g nodemon
+
+	- Run by:
+	nodemon server
+
+
+- package.json:
+This file contain all the dependency informations.
+
+	- Make package.json file:
+	npm init
+
+	- To get all the dependencies from package.json file:
+	npm install
+
+
+- Install lodash: (not used here)
+(for collections)
+npm install lodash
+
+
+
+- Install Express:
+(nodejs framework)
+npm install express
+
+
+- Install EJS
+(View for Node) (Embedded JS templating)
+
+
+- Install morgan
+(middleware used for logging)
+npm install morgan
+
+
+- MongoDB Atlas
+(Free cloud MongoDB service)
+
+- Install Mongoose
+(Object Data Modeling (ODM) for Nodejs and MongoDB)
+npm install mongoose
